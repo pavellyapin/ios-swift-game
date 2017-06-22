@@ -1,0 +1,14 @@
+{
+    "memberships":
+    [
+     {   "name": "Easy",
+     "image": "http://4.bp.blogspot.com/-7OIcbg_s8X0/VU-VnhVTjaI/AAAAAAAAAn0/p4qJMlwIKbA/s200/gold_ribbon.png",
+     },
+     {   "name": "Medium",
+     "image": "http://sweetclipart.com/multisite/sweetclipart/files/imagecache/middle/award_ribbon_silver.png",
+     },
+     {   "name": "Hard",
+     "image": "https://pixabay.com/static/uploads/photo/2014/04/03/00/28/ribbon-308391_960_720.png",
+     }
+     ]
+}
